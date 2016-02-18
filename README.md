@@ -1,6 +1,6 @@
 #Samples for face detection and recognition on Rasperry Pi
 
-Most of code is copied from [https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box/overview].
+Most of code is copied from [https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box/overview](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box/overview).
 
 ##Setup
 
